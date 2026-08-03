@@ -1,0 +1,14 @@
+{
+  "name": "tarea4-dominios-gt",
+  "version": "1.0.0",
+  "description": "Pruebas de caja negra - Landing Page Dominios .GT",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:headed": "npx playwright test --headed",
+    "test:ui": "npx playwright test --ui",
+    "report": "npx playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.48.0"
+  }
+}

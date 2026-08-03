@@ -1,0 +1,7 @@
+node_modules/
+test-results/
+playwright-report/
+blob-report/
+.cache/
+*.webm
+tests/inspect-dom.spec.js
